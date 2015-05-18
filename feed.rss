@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:145739407/sounds.rss" rel="self" type="application/rss+xml"/>
+    <title>Superbytes</title>
+    <link>http://soundcloud.com/superbytes</link>
+    <pubDate>Sun, 17 May 2015 05:09:46 +0000</pubDate>
+    <lastBuildDate>Sun, 17 May 2015 05:09:46 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <language>en</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+    <description>Podcast by Superbytes</description>
+    <itunes:subtitle>Podcast by Superbytes</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>superbytes</itunes:name>
+    </itunes:owner>
+    <itunes:author>Superbytes</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://i1.sndcdn.com/avatars-000145952687-yt5c9e-original.png"/>
+    <image>
+      <url>http://i1.sndcdn.com/avatars-000145952687-yt5c9e-original.png</url>
+      <title>superbytes</title>
+      <link>http://soundcloud.com/superbytes</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/205845711</guid>
+      <title>Episode 5</title>
+      <pubDate>Sun, 17 May 2015 05:09:46 +0000</pubDate>
+      <link>https://soundcloud.com/superbytes/episode-5</link>
+      <itunes:duration>00:33:45</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>On sharing</itunes:summary>
+      <itunes:subtitle>On sharing</itunes:subtitle>
+      <description>On sharing</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/205845711-superbytes-episode-5.mp3" length="32410319"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000145952687-yt5c9e-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/205810427</guid>
+      <title>Episode 4</title>
+      <pubDate>Sat, 16 May 2015 22:23:43 +0000</pubDate>
+      <link>https://soundcloud.com/superbytes/episode-4</link>
+      <itunes:duration>00:33:15</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Being a new and insecure as a developer. From mentored to mentor. Keeping your job fun. Ruining the podcast magic. </itunes:summary>
+      <itunes:subtitle>Being a new and insecure as a developer. From men…</itunes:subtitle>
+      <description>Being a new and insecure as a developer. From mentored to mentor. Keeping your job fun. Ruining the podcast magic. </description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/205810427-superbytes-episode-4.mp3" length="31930501"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000145952687-yt5c9e-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/204754685</guid>
+      <title>Episode 3</title>
+      <pubDate>Sun, 10 May 2015 04:03:59 +0000</pubDate>
+      <link>https://soundcloud.com/superbytes/episode-3</link>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Programming aka piling dirt in a certain way. Do bridges have bugs?</itunes:summary>
+      <itunes:subtitle>Programming aka piling dirt in a certain way. Do …</itunes:subtitle>
+      <description>Programming aka piling dirt in a certain way. Do bridges have bugs?</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/204754685-superbytes-episode-3.mp3" length="20817785"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000145952687-yt5c9e-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/202576948</guid>
+      <title>Episode 2</title>
+      <pubDate>Sun, 26 Apr 2015 02:22:30 +0000</pubDate>
+      <link>https://soundcloud.com/superbytes/superbytes-episode-2</link>
+      <itunes:duration>00:21:01</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>I like titles and imposter syndrome.</itunes:summary>
+      <itunes:subtitle>I like titles and imposter syndrome.</itunes:subtitle>
+      <description>I like titles and imposter syndrome.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/202576948-superbytes-superbytes-episode-2.mp3" length="20174964"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000145952687-yt5c9e-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/198364077</guid>
+      <title>Episode 1</title>
+      <pubDate>Mon, 30 Mar 2015 06:17:01 +0000</pubDate>
+      <link>https://soundcloud.com/superbytes/superbytes-episode-1</link>
+      <itunes:duration>00:15:53</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Superbytes is a web development podcast. Just two developers talking to each other about interesting web dev items. Brought to you a few times a week in brief easy-to-digest episodes.</itunes:summary>
+      <itunes:subtitle>Superbytes is a web development podcast. Just two…</itunes:subtitle>
+      <description>Superbytes is a web development podcast. Just two developers talking to each other about interesting web dev items. Brought to you a few times a week in brief easy-to-digest episodes.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/198364077-superbytes-superbytes-episode-1.mp3" length="15252325"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000145952687-yt5c9e-original.png"/>
+    </item>
+  </channel>
+</rss>
