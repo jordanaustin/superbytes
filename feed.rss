@@ -24,6 +24,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/127721903</guid>
+      <title>Episode 5</title>
+      <pubDate>Tue, 19 May 2015 05:00:13 +0000</pubDate>
+      <link>http://superbytes.co#episode-6</link>
+      <itunes:duration>00:25:36</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Github for sharing, learning and teaching. Is this real life? Yes, it gets gritty.</itunes:summary>
+      <itunes:subtitle>Github for sharing, learning and teaching. Is this real life? Yes, it gets gritty.</itunes:subtitle>
+      <description>Github for sharing, learning and teaching. Is this real life? Yes, it gets gritty.</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0006.mp3" length="24575674"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/205845711</guid>
       <title>Episode 5</title>
       <pubDate>Sun, 17 May 2015 05:09:46 +0000</pubDate>
