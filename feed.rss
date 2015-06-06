@@ -4,7 +4,7 @@
     <title>Superbytes</title>
     <link>http://superbytes.co</link>
     <pubDate>Tue, 19 May 2015 05:00:13 +0000</pubDate>
-    <lastBuildDate>Tue, 24 May 2015 12:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 6 June 2015 2:43:14 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -23,6 +23,19 @@
       <link>http://superbytes.co</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/938563942</guid>
+      <title>Episode 8</title>
+      <pubDate>Tue, 6 June 2015 2:38:22 +0000</pubDate>
+      <link>http://superbytes.co#episode-8</link>
+      <itunes:duration>00:33:50</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Talking about our first websites we coded. Wing Exchange!</itunes:summary>
+      <itunes:subtitle>Talking about our first websites we coded. Wing Exchange!</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0008.mp3" length="32483469"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>    
     <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/385739673</guid>
       <title>Episode 7</title>
