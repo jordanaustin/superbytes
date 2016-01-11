@@ -34,9 +34,6 @@ a {
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3);
 
-.episodes > div {
-    margin-bottom: 1em;
-}
 
 @media screen and (min-width: 64em) {
   .btn {
@@ -247,3 +244,7 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.episodes > div {
+    margin-bottom: 1em;
+}
