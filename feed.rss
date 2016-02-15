@@ -4,7 +4,7 @@
     <title>Superbytes</title>
     <link>http://superbytes.co</link>
     <pubDate>Tue, 19 May 2015 05:00:13 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2015 24:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Feb 2016 16:53:54 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -23,6 +23,20 @@
       <link>http://superbytes.co</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/4660048589</guid>
+      <title>Episode 11</title>
+      <pubDate>Sun, 14 Feb 2016 16:50:13 +0000</pubDate>
+      <link>http://superbytes.co/episodes/11</link>
+      <itunes:duration>00:16:11</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Time Estimation</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>How we've adapted our time estimates for tasks over the years as developers</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0011.mp3" length="15539406"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/4660048589</guid>
       <title>Episode 10</title>
