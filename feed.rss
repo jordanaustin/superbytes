@@ -24,6 +24,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/4739629505</guid>
+      <title>Episode 13</title>
+      <pubDate>Tue, 15 Mar 2016 16:00:23 +0000</pubDate>
+      <link>http://superbytes.co/episodes/13</link>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Meetups, conferences, community</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>We share our experiences attending meetups, conferences, and discuss benefits and challenges to participation in your local dev community.</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0013.mp3" length="27639639"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/4739629504</guid>
       <title>Episode 12</title>
       <pubDate>Mon, 07 Mar 2016 16:12:23 +0000</pubDate>
