@@ -24,6 +24,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/6980426891</guid>
+      <title>Episode 13</title>
+      <pubDate>Sun, 26 Mar 2016 23:22:12 +0000</pubDate>
+      <link>http://superbytes.co/episodes/14</link>
+      <itunes:duration>00:17:28</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Context in code and writing code for humans</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>The importance of context in language, writing code for humans and setting up your code for future understandability</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0014.mp3" length="16735187"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>    
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/4739629505</guid>
       <title>Episode 13</title>
       <pubDate>Tue, 15 Mar 2016 16:00:23 +0000</pubDate>
