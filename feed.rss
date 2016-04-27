@@ -11,6 +11,7 @@
     <webMaster>jordan@superbytes.co (Superbytes Feeds)</webMaster>
     <description>Podcast by Superbytes</description>
     <itunes:subtitle>Podcast by Superbytes</itunes:subtitle>
+    <itunes:email>jordan@superbytes.co</itunes:email>
     <itunes:owner>
       <itunes:name>superbytes</itunes:name>
     </itunes:owner>
