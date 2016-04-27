@@ -11,11 +11,11 @@
     <webMaster>jordan@superbytes.co (Superbytes Feeds)</webMaster>
     <description>Podcast by Superbytes</description>
     <itunes:subtitle>Podcast by Superbytes</itunes:subtitle>
-    <itunes:email>jordan@superbytes.co</itunes:email>
     <itunes:owner>
       <itunes:name>superbytes</itunes:name>
     </itunes:owner>
     <itunes:author>Superbytes</itunes:author>
+    <itunes:email>jordan@superbytes.co</itunes:email>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
     <image>
