@@ -13,9 +13,9 @@
     <itunes:subtitle>Podcast by Superbytes</itunes:subtitle>
     <itunes:owner>
       <itunes:name>superbytes</itunes:name>
+      <itunes:email>jordan@superbytes.co</itunes:email>
     </itunes:owner>
     <itunes:author>Superbytes</itunes:author>
-    <googleplay:email>jordan@superbytes.co</googleplay:email>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
     <image>
