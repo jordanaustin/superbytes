@@ -25,6 +25,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/9485329135</guid>
+      <title>Episode 16</title>
+      <pubDate>Sat, 30 Apr 2016 21:35:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/16</link>
+      <itunes:duration>00:36:53</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>What is JS tooling?</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>Talking JS tooling and frameworks. We touch on the unique issue that JavaScript faces with no standard tooling and how some developers are really feeling the fatigue.</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0016.mp3" length="35405842"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/6980426892</guid>
       <title>Episode 15</title>
       <pubDate>Sun, 3 Apr 2016 16:00:00 +0000</pubDate>
