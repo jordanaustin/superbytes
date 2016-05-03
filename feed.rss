@@ -25,6 +25,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/9485329136</guid>
+      <title>Episode 17</title>
+      <pubDate>Sun, 1 May 2016 21:30:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/17</link>
+      <itunes:duration>00:47:58</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Which beers pair with your front-end framework?</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>This lighthearted episode we talk about beer, developer flibbups, JS frameworks, jQuery, yes and more!</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0017.mp3" length="69084263"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/9485329135</guid>
       <title>Episode 16</title>
       <pubDate>Sat, 30 Apr 2016 21:35:00 +0000</pubDate>
