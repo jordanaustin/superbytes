@@ -25,6 +25,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/7634925781</guid>
+      <title>Episode 18</title>
+      <pubDate>Sun, 8 May 2016 21:29:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/18</link>
+      <itunes:duration>00:40:32</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do you still need DOM manipulation libraries, like jQuery?</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>This week we're exploring DOM manipulation libaries specifically jQuery vs. DOM APIs</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0018.mp3" length="38916281"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/9485329136</guid>
       <title>Episode 17</title>
       <pubDate>Sun, 1 May 2016 21:30:00 +0000</pubDate>
