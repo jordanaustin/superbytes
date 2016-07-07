@@ -25,7 +25,21 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
-      <guid isPermaLink="false">tag:superbytes,2010:tracks/3957327431</guid>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/7634925783</guid>
+      <title>Episode 20</title>
+      <pubDate>Wed, 6 July 2016 20:00:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/20</link>
+      <itunes:duration>00:32:17</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Git push origin story</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>What are we doing? How did we get here? Why are we doing this? Find out the answers to these questions and more in this landmark episode of Superbytes.</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0020.mp3" length="38028966"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/7634925782</guid>
       <title>Episode 19</title>
       <pubDate>Thurs, 9 June 2016 20:08:00 +0000</pubDate>
       <link>http://superbytes.co/episodes/19</link>
