@@ -25,6 +25,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/5820574626</guid>
+      <title>Episode 21</title>
+      <pubDate>Sun, 10 July 2016 17:30:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/21</link>
+      <itunes:duration>00:34:13</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Workplace differences</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>Dealing with conflict or differences in the workplace and how to learn from it.</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0021.mp3" length="32842912"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/7634925783</guid>
       <title>Episode 20</title>
       <pubDate>Wed, 6 July 2016 20:00:00 +0000</pubDate>
