@@ -25,6 +25,34 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/5820574629</guid>
+      <title>Episode 24</title>
+      <pubDate>Sun, 2 October 2016 15:00:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/24</link>
+      <itunes:duration>00:34:55</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Idiosyncracies</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>A peek in to little quarks that can get the best of us.</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0024.mp3" length="34421237"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/5820574628</guid>
+      <title>Episode 23</title>
+      <pubDate>Fri, 30 September 2016 14:00:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/23</link>
+      <itunes:duration>00:43:20</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Ins and outs of interviewing (Part 2)</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>A listener requested topic on interviewing where we share more experiences of the interview process.</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0023.mp3" length="50487214"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/5820574627</guid>
       <title>Episode 22</title>
       <pubDate>Sun, 24 July 2016 17:01:00 +0000</pubDate>
