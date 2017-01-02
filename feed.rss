@@ -25,6 +25,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/5820574630</guid>
+      <title>Episode 25</title>
+      <pubDate>Sun, 1 January 2017 23:45:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/25</link>
+      <itunes:duration>00:34:47</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Chrome Dev Summit</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>Recap of the Chrome Dev Summit and Progressive Web Apps.</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0025.mp3" length="33388353 "/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>    
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/5820574629</guid>
       <title>Episode 24</title>
       <pubDate>Sun, 2 October 2016 15:00:00 +0000</pubDate>
