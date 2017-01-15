@@ -25,6 +25,20 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">tag:superbytes,2010:tracks/5820574632</guid>
+      <title>Episode 27</title>
+      <pubDate>Sun, 15 January 2017 13:38:00 +0000</pubDate>
+      <link>http://superbytes.co/episodes/27</link>
+      <itunes:duration>00:37:44</itunes:duration>
+      <itunes:author>Superbytes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>PWA tech deep dive</itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <description>Deep dive into some of the technologies that help make your web app "reliable, fast, and engaging".</description>
+      <enclosure type="audio/mpeg" url="http://d1grrhf784sfys.cloudfront.net/episodes/ep0027.mp3" length="36557172"/>
+      <itunes:image href="http://d1grrhf784sfys.cloudfront.net/images/sb-highres.png"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:superbytes,2010:tracks/5820574631</guid>
       <title>Episode 26</title>
       <pubDate>Sat, 13 January 2017 23:38:00 +0000</pubDate>
